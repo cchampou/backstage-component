@@ -13,3 +13,4 @@ metadata:
 spec:
   type: website
   lifecycle: production
+  owner: development/guest
