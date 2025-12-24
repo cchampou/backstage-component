@@ -8,6 +8,8 @@ metadata:
   links:
     - url: https://clement.champouillon.com
       title: Personal website
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: production
