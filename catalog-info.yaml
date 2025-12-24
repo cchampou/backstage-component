@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Personal website
+  description: The place to be
+  tags:
+    - typescript
+  links:
+    - url: https://clement.champouillon.com
+      title: Personal website
+spec:
+  type: website
+  lifecycle: production
+  owner: myself
+  system: public-websites
