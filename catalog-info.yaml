@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Personal website
+  name: personal-website
   description: The place to be
   tags:
     - typescript
